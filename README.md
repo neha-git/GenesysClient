@@ -15,7 +15,7 @@
 
 # Build and Run
 
-1. Check out the application Connect5 from the repo and naviagte to <file location>/Connect5Client in the Console
+1. Check out the application Connect5 from the repo and naviagte to `file location`/Connect5Client in the Console
 
-2. Run the command <mvn exec:java>.  
+2. Run the command `mvn exec:java`.  
 
